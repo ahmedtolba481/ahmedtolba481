@@ -1,24 +1,67 @@
-# 💫 About Me:
-Hi! I’m Ahmed Mohamed Elsayed Tolba, a Computer Science student at FCAI – Cairo University and an aspiring Frontend Developer with a strong passion for building beautiful, responsive, and user-friendly web experiences.<br><br>I started my programming journey with C++, which helped me develop a solid foundation in problem-solving, algorithms, and logical thinking. Over time, I discovered my love for the frontend world — where creativity meets technology.<br><br>Currently, I’m a Frontend Development Trainee in the Digital Egypt Pioneers Initiative (DEPI), where I’m learning how to craft modern, responsive websites using:<br>💻 HTML | CSS | JavaScript (ES6+) | React<br><br>I also use tools like Git, GitHub, and VS Code to manage projects, collaborate with others, and bring designs to life. My focus is on creating clean, efficient, and accessible code that delivers a seamless user experience.<br><br>Beyond web development, I’m a member of the Cyber Security track at the Google Developer Student Club (DSC) at Cairo University — exploring ethical hacking, CTFs, and web application security to make my projects more robust and secure.<br><br>I’m always eager to learn new technologies, contribute to open-source projects, and collaborate on real-world applications that make an impact.<br><br>🚀 Frontend Goals:<br><br>Build scalable and visually stunning web apps<br><br>Master advanced React concepts (hooks, context, routing, APIs)<br><br>Learn TypeScript and Next.js for modern web development<br><br>Contribute to open-source and grow as a community-driven developer<br>💡 Open to internships, collaborations, and opportunities to contribute to meaningful tech projects.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ahmed%20Tolba&fontSize=60&fontColor=ffffff&desc=Full-Stack%20Development%20and%20AI%2FML&descSize=20&descAlignY=68"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=EC744A&center=true&vCenter=true&width=640&lines=AI+Student+%40+FCAI+-+Cairo+University;Building+with+React+and+Laravel;Growing+into+Machine+Learning+with+Python"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-tolba-78b0ba345) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-tolba-c345/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Cairo_University-FCAI-7B2CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_%2B_AI%2FML-EC744A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Cairo,_Egypt-00A86B?style=for-the-badge"/>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedtolba481&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahmedtolba481&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtolba481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💫 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmedtolba481&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I'm an AI student at the Faculty of Computing and Artificial Intelligence, Cairo University. I build web applications with **React** and **Laravel**, and I'm growing into machine learning with **Python**. I like turning ideas into clean, working products, and I'm looking for opportunities to apply and grow these skills.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmedtolba481&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔭 What I'm Working On
 
----
-[![](https://visitcount.itsvg.in/api?id=ahmedtolba481&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🤖 AI and Machine Learning Diploma at **Route** (in progress)
+- 📊 Data analysis track at **DEPI** (in progress): Excel, SQL, Python, Power BI and statistics
+- 🌐 Full-stack web projects, and machine learning models built from scratch
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+| Project | What it is |
+| --- | --- |
+| 🐦‍🔥 [The Phoenix Project](https://github.com/ahmedtolba481/The-Phoenix-Project) | **Team project (DEPI).** A React marketplace for recycling, upcycling and reselling pre-loved items. Ranked 9th in the Software Development track at the DEPI Round 3 ceremony. |
+| 🏥 [MediCare Hospital](https://github.com/ahmedtolba481/Medicare-hospital) | **Built with a teammate.** Laravel and MySQL appointment system with patient, doctor and admin dashboards. |
+| 🛒 [E-Commerce Management System](https://github.com/ahmedtolba481/E-Commerce-Management-System) | **Team project.** PHP and MySQL store with admin dashboard, cart, checkout and order management. |
+| 🧠 [Gaussian Naive Bayes From Scratch](https://github.com/ahmedtolba481/Gaussian-Naive-Bayes-From-Scratch) | Python and NumPy classifier with custom metrics, compared against scikit-learn on the Wisconsin Breast Cancer dataset. |
+| 🚆 [UK Train Rides Analytics & Forecasting](https://github.com/ahmedtolba481/uk-train-rides-analytics-forecasting) | **Team project.** Power BI analysis of journeys, revenue, delays and cancellations, with next-month forecasting. |
+| 🧵 [OS Hospital ER Simulation](https://github.com/ahmedtolba481/OS-Hospital-ER-Simulation) | **Course project (Operating Systems).** Java producer-consumer simulation with semaphores and bounded buffers. |
+| 🎨 [Arsha Landing Page](https://github.com/ahmedtolba481/Arsha---Modern-Corporate-Agency-Landing-Page) | **Individual practice project.** Responsive agency page with Bootstrap 5 and scroll-reveal animations. |
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwind-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+Also familiar with: Next.js, Node.js/Express, MongoDB, Linux (WSL2).
+
+## 🏆 Recognition
+
+- 🥉 Winged Dragon 2025, Cairo University FCAI: third place
+- 🎖️ Winged Dragon 2025: honorable mention for applying multithreading
+- 🏅 DEPI Round 3: ninth place, Software Development track (The Phoenix Project)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedtolba481&theme=radical&hide_border=true&disable_animations=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtolba481&theme=radical&hide_border=true&layout=compact&disable_animations=true"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmedtolba481&theme=radical&hide_border=true&disable_animations=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedtolba481&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
+</p>
